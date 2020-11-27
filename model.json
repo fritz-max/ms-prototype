@@ -1,0 +1,9 @@
+{
+    "subscribe-topics": [],
+    "publish-topics": [
+        "GPS",
+        "heartbeat"
+    ],
+    "caller-topics": [],
+    "callee-topics": []
+}
